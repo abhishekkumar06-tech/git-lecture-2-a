@@ -1,1 +1,2 @@
 this is lecture 2 content
+i think i kind of now learned to push my content on git hub 😊
